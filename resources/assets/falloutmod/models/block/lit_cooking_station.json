@@ -1,0 +1,13 @@
+{
+    "parent": "block/orientable",
+    "textures":
+    {
+        "particle": "falloutmod:blocks/cooking_station_front_off",
+        "up": "falloutmod:blocks/cooking_station_front_off",
+        "down": "falloutmod:blocks/cooking_station_front_off",
+        "north": "falloutmod:blocks/cooking_station_front_on",
+        "east": "falloutmod:blocks/cooking_station_side1",
+        "south": "falloutmod:blocks/cooking_station_side3",
+        "west": "falloutmod:blocks/cooking_station_side2"
+    }
+}

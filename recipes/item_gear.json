@@ -1,0 +1,21 @@
+{
+    "result": {
+        "item": "falloutmod:item_gear"
+        },
+        "pattern": [
+            " S ",
+            "SAS",
+            " S "
+        ],
+        "type": "minecraft:crafting_shaped",
+        "key": {
+            "S": {
+                "item": "falloutmod:item_steel",
+                "data": 0
+            },
+            "A": {
+                "item": "falloutmod:item_adhesive",
+                "data": 0
+            }
+        }
+}

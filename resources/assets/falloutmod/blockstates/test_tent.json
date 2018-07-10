@@ -1,0 +1,9 @@
+{
+    "variants":
+    {        
+        "facing=north": { "model": "falloutmod:test_tent" },
+        "facing=east": { "model": "falloutmod:test_tent", "y": 90 },
+        "facing=south": { "model": "falloutmod:test_tent", "y": 180 },
+        "facing=west": { "model": "falloutmod:test_tent", "y": 270 }
+   }
+}

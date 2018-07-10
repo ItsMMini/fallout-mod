@@ -1,0 +1,10 @@
+{
+    "variants":
+    {        
+
+        "facing=north": { "model": "falloutmod:medkit", "y": 360},
+        "facing=east": { "model": "falloutmod:medkit", "y": -90 },
+        "facing=south": { "model": "falloutmod:medkit", "y": 180 },
+        "facing=west": { "model": "falloutmod:medkit", "y": -270 }
+   }
+}

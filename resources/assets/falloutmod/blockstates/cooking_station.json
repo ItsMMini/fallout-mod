@@ -1,0 +1,13 @@
+{
+    "variants":
+    {
+        "burning=false,facing=north": { "model": "falloutmod:cooking_station" },
+        "burning=false,facing=east": { "model": "falloutmod:cooking_station", "y": 90 },
+        "burning=false,facing=south": { "model": "falloutmod:cooking_station", "y": 180 },
+        "burning=false,facing=west": { "model": "falloutmod:cooking_station", "y": 270 },
+        "burning=true,facing=north": { "model": "falloutmod:lit_cooking_station" },
+        "burning=true,facing=east": { "model": "falloutmod:lit_cooking_station", "y": 90 },
+        "burning=true,facing=south": { "model": "falloutmod:lit_cooking_station", "y": 180 },
+        "burning=true,facing=west": { "model": "falloutmod:lit_cooking_station", "y": 270 }
+    }
+}

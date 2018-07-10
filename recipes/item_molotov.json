@@ -1,0 +1,25 @@
+{
+    "result": {
+        "item": "falloutmod:item_molotov"
+        },
+        "pattern": [
+            " C ",
+            " O ",
+            " A "
+        ],
+        "type": "minecraft:crafting_shaped",
+        "key": {
+            "C": {
+                "item": "falloutmod:item_cloth",
+                "data": 0
+            },
+            "A": {
+                "item": "falloutmod:item_alcohol",
+                "data": 0
+            },
+            "O": {
+                "item": "falloutmod:item_oil",
+                "data": 0
+            }
+    }
+}

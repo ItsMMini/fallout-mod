@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "facing=north": { "model": "falloutmod:nukacola_machine" },
+        "facing=east": { "model": "falloutmod:nukacola_machine", "y": 90 },
+        "facing=south": { "model": "falloutmod:nukacola_machine", "y": 180 },
+        "facing=west": { "model": "falloutmod:nukacola_machine", "y": 270 }
+    }
+}
